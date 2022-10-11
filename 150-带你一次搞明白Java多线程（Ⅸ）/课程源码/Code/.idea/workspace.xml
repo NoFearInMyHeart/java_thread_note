@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92d0dc73-868c-4351-9f38-0390ccd58165" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="WKThread" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SGWqmrgTQQjdaC9pIapMaXb5zJ" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/threadbasic/src/com/wkcto/sigleton/p4" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1957672" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wkcto.sigleton.p6" />
+      <recent name="com.wkcto.sigleton.p5" />
+      <recent name="com.wkcto.sigleton.p4" />
+      <recent name="com.wkcto.sigleton.p4.p3" />
+      <recent name="com.wkcto.sigleton.p3" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\wkcto\thread\Code\threadbasic\src\com\wkcto\sigleton\p4" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Test (1)">
+    <configuration name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wkcto.sigleton.p6.Test" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.sigleton.p6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wkcto.sigleton.p5.Test" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.sigleton.p5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wkcto.sigleton.p4.Test01" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.sigleton.p4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wkcto.sigleton.p4.Test02" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.sigleton.p4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wkcto.sigleton.p4.Test03" />
+      <module name="threadbasic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wkcto.sigleton.p4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Test01" />
+      <item itemvalue="Application.Test02" />
+      <item itemvalue="Application.Test03" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test (1)" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Test01" />
+        <item itemvalue="Application.Test02" />
+        <item itemvalue="Application.Test03" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d0dc73-868c-4351-9f38-0390ccd58165" name="Default Changelist" comment="" />
+      <created>1560338148144</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1560338148144</updated>
+      <workItem from="1560338151409" duration="10120000" />
+      <workItem from="1562502726107" duration="1585000" />
+      <workItem from="1562761019715" duration="2490000" />
+      <workItem from="1562933658786" duration="24000" />
+      <workItem from="1563094971016" duration="2866000" />
+      <workItem from="1564560472197" duration="8416000" />
+      <workItem from="1568771144550" duration="7918000" />
+      <workItem from="1571190612541" duration="12750000" />
+      <workItem from="1573610495738" duration="14052000" />
+      <workItem from="1576023319579" duration="674000" />
+      <workItem from="1576390115165" duration="13768000" />
+      <workItem from="1576418100507" duration="4008000" />
+      <workItem from="1578227350396" duration="8779000" />
+      <workItem from="1581556260245" duration="10744000" />
+      <workItem from="1581641040866" duration="9616000" />
+      <workItem from="1581900981726" duration="12552000" />
+      <workItem from="1581987473583" duration="1333000" />
+      <workItem from="1582080829011" duration="15166000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/WKThread$Test__3_.ic" NAME="Test (3) Coverage Results" MODIFIED="1560434407266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.wkcto.threadmehtod.p2IsAlive.*</FILTER>
+    </SUITE>
+  </component>
+</project>
